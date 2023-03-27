@@ -2,5 +2,5 @@ package com.resume.dto;
 
 public class test2 {
 
-    sdfdsf
+    System.out.println("sds")
 }
